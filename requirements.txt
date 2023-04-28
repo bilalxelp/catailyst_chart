@@ -1,0 +1,9 @@
+dash
+pandas
+yahoofinancials
+plotly
+yfinance
+datetime
+regex
+
+
